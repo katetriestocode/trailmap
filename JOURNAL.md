@@ -1,3 +1,41 @@
+# 6/28/2026 10 PM - more wiring + first price check!
+
+_Time spent: 1h_
+
+i started wiring other components but the important ones, fixing errors, and establishing a better layout. I checked prices for just boards, and found everything under 100x100mm is so much cheaper than anything slightly above, so i reduced the space to 100mm horizontally and vertically 100mm, which i can easily reduce based on the screen size i will decided. I got a first pcba price estimate from jlcpcb, and it was 250$??? this is cuz theres like more than 100 dollars of various fees because it is standard rather than econ (constraint based on needing the esp32 wroom 1, which isnt in econ :P) i will drastically reduce the price by soldering it myself (maybe with a hot plate?)
+(https://lapse.hackclub.com/timelapse/qy0DC-9HV17Z)
+<img width="993" height="634" alt="Screenshot 2026-06-29 at 22 47 47" src="https://github.com/user-attachments/assets/5c5f8d04-37c3-435e-b4a2-b1d2ce8057ae" />
+<img width="1277" height="688" alt="Screenshot 2026-06-29 at 22 46 58" src="https://github.com/user-attachments/assets/28c25db9-f35c-48df-b809-537bd7797f5f" />
+
+
+
+# 6/27/2026 7 PM - wiring start!
+
+_Time spent: 2h_
+
+i found out that i need a HAT to connect the e-ink to my board, which is about 8 euros on aliexpress. I then started wiring, being careful to place decouplers near their adjacent part, and wiring the important wires first (eg info parts and battery)
+(https://lapse.hackclub.com/timelapse/zSaDSLh_QurV)
+<img width="752" height="612" alt="Screenshot 2026-06-29 at 22 40 21" src="https://github.com/user-attachments/assets/d822834e-9c49-4fdf-9e10-1834d4b81394" />
+
+
+
+# 6/27/2026 1 PM - switches, buttons, e-ink, and layout start!
+
+_Time spent: 2h_
+
+i struggled choosing which buttons to use, but ended up choosing one with an attachment that would allow a custom cap to make the buttons look more professional. I also started laying out the items based on the e-ink layout, considering that the gps should be away from everything else, and that the usb-c and sd card need to be in a convenient position.
+(https://lapse.hackclub.com/timelapse/XH70X7rhDU6x)+(https://lapse.hackclub.com/timelapse/bGLBh-pUC-5d)
+<img width="587" height="435" alt="Screenshot 2026-06-29 at 22 36 18" src="https://github.com/user-attachments/assets/73536c22-a7a4-4160-85fe-229b2f3944cd" />
+
+
+
+# 6/26/2026 5 PM - footprint assignment!
+
+_Time spent: 2h_
+
+assigned footprints! i assigned all the various footprints (except buttons) i struggled figuring out what components corresponded to which SOTs :D
+(https://lapse.hackclub.com/timelapse/Y9WYruspzZDs)
+<img width="811" height="598" alt="Screenshot 2026-06-29 at 22 28 19" src="https://github.com/user-attachments/assets/580d377e-3c07-44c9-a967-964916f7f334" />
 
 
 
