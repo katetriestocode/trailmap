@@ -1,3 +1,13 @@
+# 6/30/2026 16 PM - cost reduction!
+
+_Time spent: 1h_
+
+I got the cost down! assembly of only two boards, no standard pieces, and not assembling everything takes it down to around 80$! I also changed the magnetometer to a LIS2MDL, instead of a lis3mdl which i found out is out of production! now i will look at the other pieces i will have to hand solder, as i am unsure how i will solder smd pieces like the esp
+<img width="768" height="408" alt="{F266392B-B6CA-4F24-A104-2809517627C4}" src="https://github.com/user-attachments/assets/4cca1306-0203-4d59-9302-bc4e76500566" />
+<img width="1486" height="769" alt="image" src="https://github.com/user-attachments/assets/0b879089-aaaa-428c-87a3-af4316f233a1" />
+
+
+
 # 6/28/2026 10 PM - more wiring + first price check!
 
 _Time spent: 1h_
