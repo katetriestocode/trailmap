@@ -1,9 +1,10 @@
 # 7/01/2026 6 PM - 3d model!
 
-_Time spent: 1h_
+_Time spent: 1.5h_
 
 I made a first draft of the 3d model! this is with a provisional eink size, so i might change. tho its a start for submission!
-<img width="1485" height="1123" alt="image" src="https://github.com/user-attachments/assets/26f85051-d4bd-4810-bd05-2ca23c267e78" />
+<img width="1495" height="1060" alt="image" src="https://github.com/user-attachments/assets/035c1a0d-9ae4-4083-9cfa-308bfe4707d9" />
+
 
 
 
