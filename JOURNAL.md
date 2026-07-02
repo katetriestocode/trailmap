@@ -1,4 +1,23 @@
-# 6/30/2026 16 PM - cost reduction!
+# 7/01/2026 6 PM - 3d model!
+
+_Time spent: 1.5h_
+
+I made a first draft of the 3d model! this is with a provisional eink size, so i might change. tho its a start for submission!
+<img width="1495" height="1060" alt="image" src="https://github.com/user-attachments/assets/035c1a0d-9ae4-4083-9cfa-308bfe4707d9" />
+
+
+
+
+# 7/01/2026 2 PM - pcb finalized!
+
+_Time spent: 2h_
+
+I finished the pcb, and removed all errors but the ones i am ignoring, like pads too small (its the part footprint). 
+<img width="874" height="988" alt="image" src="https://github.com/user-attachments/assets/98140b9d-ec59-48e9-af41-7e1c2c87c17f" />
+
+
+
+# 6/30/2026 4 PM - cost reduction!
 
 _Time spent: 1h_
 
