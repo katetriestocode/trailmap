@@ -19581,14 +19581,6 @@
 		(uuid "afc3051a-ddf8-487b-b212-05c9260248a0")
 	)
 	(segment
-		(start 185.5 80.3)
-		(end 185.45 80.25)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "+3V3")
-		(uuid "afed18f1-05db-42eb-883f-040b0bb6713d")
-	)
-	(segment
 		(start 197.15 80.76)
 		(end 197.74 80.76)
 		(width 0.2)
