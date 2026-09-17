@@ -12,21 +12,26 @@
 #include <GxEPD2_BW.h> 
 
 
-#define I2C_SDA __HAVE_DISTINCT_FLOAT32X
-#define I2C_SCL x
-#define GPS_TX x
-#define GPS_RX x
-#define SD_CS x
-#define EINK_CS x
-#define EINK_DC x
-#define EINK_RST x
-#define EINK_BUSY x
+#define I2C_SDA 4
+#define I2C_SCL 5
+#define GPS_TX 37
+#define GPS_RX 36
+#define SD_CS 18
+#define EINK_CS 6
+#define EINK_DC 7
+#define EINK_RST 12
+#define EINK_BUSY 17
 
 
-#define BTN_ZOOM_IN x
-#define BTN_ZOOM_OUT x
-#define BTN_A x
+#define BTN_ZOOM_IN 31
+#define BTN_ZOOM_OUT 32
+#define BTN_A 47
+#define BTN_B 48
 
+#define BTN_UP 41
+#define BTN_DOWN 38
+#define BTN_LEFT 42
+#define BTN_RIGHT 21
 
 HardwareSerial GPSSerial(1);
 TinyGPSPlus gps;
