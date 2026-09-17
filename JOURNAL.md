@@ -1,10 +1,18 @@
+# 7/02/2026 7 PM - bom!
+
+_Time spent: 1h_
+
+I finished the BOM, redone, quite expensive :,) but i couldnt really get it down. I also redid the graphics for my board:
+<img width="500" height="266" alt="Screenshot 2026-07-02 at 19 50 46" src="https://github.com/user-attachments/assets/d5f9c7d7-5d2c-4747-bc0f-d0ef59fd548e" />
+
+
+
 # 7/01/2026 6 PM - 3d model!
 
 _Time spent: 1.5h_
 
 I made a first draft of the 3d model! this is with a provisional eink size, so i might change. tho its a start for submission!
 <img width="1495" height="1060" alt="image" src="https://github.com/user-attachments/assets/035c1a0d-9ae4-4083-9cfa-308bfe4707d9" />
-
 
 
 
