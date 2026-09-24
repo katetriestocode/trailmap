@@ -1,3 +1,12 @@
+# 9/24/2026 7 PM - built!
+
+_Time spent: 5?h_
+
+After ages, i fixed up the code, adapted it to work without gps, made a demo code to test the e-ink, downloaded maps.. etc! anyways it works:
+<img width="766" height="437" alt="Screenshot 2026-09-24 234755" src="https://github.com/user-attachments/assets/d3dca4a3-c005-40d0-af76-ee53be1ccd69" />
+
+
+
 # 7/02/2026 7 PM - bom!
 
 _Time spent: 1h_
