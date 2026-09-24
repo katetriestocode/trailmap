@@ -6,7 +6,8 @@ trailmap is a long lasting, gps enabled, e-ink trail map viewer! equipped with t
 
 this is the working version! (disclaimer: no antenna as it has not delivered yet, so manual gps coords insertion for now!)
 
-![IMG_2553](https://github.com/user-attachments/assets/d8559049-6d64-4762-9b61-2459394ca0f8)
+<img width="766" height="437" alt="Screenshot 2026-09-24 234755" src="https://github.com/user-attachments/assets/4bd8c88a-ee35-4adb-9846-32f818f700b5" />
+
 
 
 provisional 3d model:
