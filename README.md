@@ -2,6 +2,13 @@
 # trailmap
 trailmap is a long lasting, gps enabled, e-ink trail map viewer! equipped with temperature, humidity, magnetometer, altitude and gps, it lets the user choose and follow hiking trails like a map! with a usb-c rechargeable lipo battery, it will provide a long lasting and wifi-scarcity proof solution to digital maps :D
 
+
+
+this is the working version! (disclaimer: no antenna as it has not delivered yet, so manual gps coords insertion for now!)
+
+![IMG_2553](https://github.com/user-attachments/assets/d8559049-6d64-4762-9b61-2459394ca0f8)
+
+
 provisional 3d model:
 
 <img width="772" height="550" alt="model" src="https://github.com/user-attachments/assets/65256e23-9ffd-4131-9a67-cf184c395b90" />
